@@ -15,7 +15,7 @@ namespace GitDemo
         public Form1()
         {
             InitializeComponent();
-            // Test commit from feature-01 (which this branch is not yet publish)
+            // Test change in develop
         }
     }
 }
