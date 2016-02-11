@@ -18,6 +18,8 @@ namespace GitDemo
             // Test commit from feature-01 (which this branch is not yet publish)
 
             // Test change in feature-01 
+
+            // Test change in feature-01  bug fix
         }
     }
 }
