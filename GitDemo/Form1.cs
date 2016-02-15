@@ -20,6 +20,10 @@ namespace GitDemo
             // Test change in feature-01 
 
             // Test change in feature-01  bug fix
+
+            // Test demo 
+
+            // fix master - hot fix
         }
     }
 }
